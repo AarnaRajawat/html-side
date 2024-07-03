@@ -1,0 +1,22 @@
+
+.carousel-caption-overlay {
+  position: absolute;
+  top: 50%;
+  left: 3%;
+ 
+  color: rgb(13, 13, 13);
+  text-align: center;
+  font-size: xx-large;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+.contact-section {
+  background-color: #ffffff;
+  padding: 80px 0;
+}
+.contact-form {
+  max-width: 600px;
+  margin: auto;
+}
